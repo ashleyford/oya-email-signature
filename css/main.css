@@ -38,9 +38,8 @@ select {
 }
 
 .jumbotron {
-	background-color: #000;
+	background-color: #1f1f1f;
   color: #fff;
-  text-transform: uppercase;
 }
 
 .jumbotron .container {
